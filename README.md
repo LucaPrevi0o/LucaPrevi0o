@@ -6,8 +6,8 @@
 
 ## GitHub Stats
 <div>
- <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&hide_title=true&show_icons=true&hide=stars&theme=transparent&border_radius=0"/>
- <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&card_width=320&border_radius=0"/>
+ <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&hide_title=true&show_icons=true&hide=stars&theme=transparent&border_radius=0"/>
+ <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&card_width=320&border_radius=0"/>
 </div><hr>
 
 ### Top public repositories:
