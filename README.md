@@ -12,8 +12,8 @@
 
 ### Top public repositories:
 <div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=mmwave&border_radius=0&show_owner=true&card_width=320"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DataContainer&border_radius=0&card_width=320"/>
+ <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=mmwave&border_radius=0&show_owner=true&card_width=320"/>
+ <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DataContainer&border_radius=0&card_width=320"/>
 </div>
 
 ## My skills
