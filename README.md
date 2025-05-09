@@ -1,4 +1,4 @@
-# -- Luca Previati - My GitHub --
+# Luca Previati - My GitHub
 * Master's student in <ins>Computer Engineering for Automation</ins> @ [University of Ferrara](http://unife.it)
 * Bachelor's Degree in Electronincs and Computer Engineering @ [University of Ferrara](http://unife.it)
   * Bachelor's thesis: *Data extraction from a 4D MIMO radar*
@@ -10,16 +10,21 @@
 # GitHub Stats
 <div>
  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&hide_title=true&show_icons=true&hide=stars&theme=transparent&border_radius=0"/>
- <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&card_width=320&border_radius=0"/>
+ <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&border_radius=0"/>
 </div>
 
 ## Top public repositories:
 <div>
  <a href="https://github.com/LucaPrevi0o/mmwave">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=mmwave&border_radius=0&show_owner=true&card_width=320"/>
+  <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=mmwave&border_radius=0"/>
  </a>
  <a href="https://github.com/LucaPrevi0o/DataContainer">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DataContainer&border_radius=0&card_width=320"/>
+  <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DataContainer&border_radius=0"/>
+ </a>
+</div>
+<div>
+ <a href="https://github.com/LucaPrevi0o/IngSW24-Javengers">
+  <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=IngSW24-Javengers&border_radius=0"/>
  </a>
 </div>
 
