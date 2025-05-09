@@ -5,8 +5,6 @@
   * Supervisors: [Prof. Andrea Conti](https://ieeexplore.ieee.org/author/37266585500), [Dott. Ing. Alessandro Vaccari](https://ieeexplore.ieee.org/author/252534149252120)
 * *Big* videogame nerd and competitive Pokémon player
 
-My name is Luca, and I like coding. This is my GitHub profile page!
-
 <hr>
 
 # GitHub Stats
