@@ -26,6 +26,9 @@
  <a href="https://github.com/LucaPrevi0o/IngSW24-Javengers">
   <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=IngSW24-Javengers&border_radius=0"/>
  </a>
+ <a href="https://github.com/LucaPrevi0o/Ing-Web">
+  <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=Ing-Web&border_radius=0"/>
+ </a>
 </div>
 
 <hr>
