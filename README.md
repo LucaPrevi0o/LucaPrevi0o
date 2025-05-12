@@ -43,6 +43,7 @@
 
 ![Assembly](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=assembly&labelColor=brown&color=white)
 ![VHDL](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=vhdl&labelColor=turquoise&color=white)
+![C#](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=c%23&labelColor=green&color=white)
 
 ![YAML](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=yaml&labelColor=darkgreen&color=white)
 ![Markdown](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=markdown&labelColor=darkorange&color=white)
