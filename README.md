@@ -1,6 +1,6 @@
 # Luca Previati - My GitHub
 * Master's student in <ins>Computer Engineering for Automation</ins> @ [University of Ferrara](http://unife.it)
-* Bachelor's Degree in <ins>Electronincs and Computer Engineering</ins> @ [University of Ferrara](http://unife.it)
+* Bachelor's Degree in <ins>Electronics and Computer Engineering</ins> @ [University of Ferrara](http://unife.it)
   * Bachelor's thesis: *Data extraction from a 4D MIMO radar*
   * Supervisors: [Prof. Andrea Conti](https://ieeexplore.ieee.org/author/37266585500), [Dott. Ing. Alessandro Vaccari](https://ieeexplore.ieee.org/author/252534149252120)
   * Final score: <ins>99/110</ins>
