@@ -10,8 +10,10 @@
 
 # GitHub Stats
 <div>
- <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&hide_title=true&show_icons=true&hide=stars&theme=transparent&border_radius=0"/>
- <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&border_radius=0"/>
+ <a href="https://github.com/LucaPrevi0o">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&hide_title=true&show_icons=true&hide=stars&theme=transparent&border_radius=0"/>
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&border_radius=0"/>
+ </a>
 </div>
 
 ## Top public repositories:
@@ -42,6 +44,7 @@
 ![Lua](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=lua&labelColor=purple&color=white)
 ![C++](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=C/C%2B%2B&labelColor=blue&color=white)
 ![Java](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=Java&labelColor=darkred&color=white)
+![Bash Shell](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=bash-shell&labelColor=lightgreen&color=white)
 
 ## Markup and styling:
 ![YAML](https://img.shields.io/badge/-t?style=for-the-badge&logoColor=white&label=yaml&labelColor=darkgreen&color=white)
