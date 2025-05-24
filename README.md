@@ -12,6 +12,8 @@
 <div>
  <a href="https://github.com/LucaPrevi0o">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&hide_title=true&show_icons=true&hide=stars&theme=transparent&border_radius=0"/>
+ </a>
+ <a href="https://github.com/LucaPrevi0o">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&border_radius=0"/>
  </a>
 </div>
@@ -31,6 +33,9 @@
  </a>
  <a href="https://github.com/LucaPrevi0o/Ing-Web">
   <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=Ing-Web&border_radius=0"/>
+ </a>
+ <a href="https://github.com/LucaPrevi0o/DeepLearning">
+  <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DeepLearning&border_radius=0"/>
  </a>
 </div>
 
