@@ -18,7 +18,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&custom_title=Stats&show_icons=true&hide=stars&theme=transparent&text_color=000000&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=610 src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&custom_title=Stats&show_icons=true&hide=stars&theme=transparent&text_color=000000&border_radius=10" />
+  <img width=430 src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&custom_title=Stats&show_icons=true&hide=stars&theme=transparent&text_color=000000&border_radius=10" />
 </picture>
 <picture>
   <source
@@ -29,7 +29,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&text_color=000000&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&text_color=000000&border_radius=10" />
+  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&text_color=000000&border_radius=10" />
 </picture>
 
 ## Top public repositories:
