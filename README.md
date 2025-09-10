@@ -37,6 +37,9 @@
  <a href="https://github.com/LucaPrevi0o/DeepLearning">
   <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DeepLearning&border_radius=0"/>
  </a>
+ <a href="https://github.com/LucaPrevi0o/NeuralPlusPlus">
+  <img width=370 height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=NeuralPlusPlus&border_radius=0"/>
+ </a>
 </div>
 
 <hr>
