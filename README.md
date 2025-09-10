@@ -18,7 +18,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&custom_title=Stats&show_icons=true&hide=stars&theme=transparent&text_color=000000&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=430 src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&custom_title=Stats&show_icons=true&hide=stars&theme=transparent&text_color=000000&border_radius=10" />
+  <img width=470 src="https://github-readme-stats.vercel.app/api?username=LucaPrevi0o&custom_title=Stats&show_icons=true&hide=stars&theme=transparent&text_color=000000&border_radius=10" />
 </picture>
 <picture>
   <source
@@ -29,7 +29,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&text_color=000000&border_radius=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&text_color=000000&border_radius=10" />
+  <img width=270 src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaPrevi0o&layout=compact&langs_count=8&text_color=000000&border_radius=10" />
 </picture>
 
 ## Top public repositories:
@@ -43,7 +43,7 @@
      srcset="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=mmwave&border_radius=10"
      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-   <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=mmwave&border_radius=10" />
+   <img width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=mmwave&border_radius=10" />
  </picture>
 </a>
 <a href="https://github.com/LucaPrevi0o/DataContainer">
@@ -56,7 +56,7 @@
      srcset="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DataContainer&border_radius=10"
      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-   <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DataContainer&border_radius=10" />
+   <img width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DataContainer&border_radius=10" />
  </picture>
 </a>
 <a href="https://github.com/LucaPrevi0o/NeuralPlusPlus">
@@ -69,7 +69,7 @@
      srcset="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=NeuralPlusPlus&border_radius=10"
      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-   <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=NeuralPlusPlus&border_radius=10" />
+   <img width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=NeuralPlusPlus&border_radius=10" />
  </picture>
 </a>
 <a href="https://github.com/LucaPrevi0o/IngSW24-Javengers">
@@ -82,7 +82,7 @@
      srcset="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=IngSW24-Javengers&border_radius=10"
      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-   <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=IngSW24-Javengers&border_radius=10" />
+   <img width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=IngSW24-Javengers&border_radius=10" />
  </picture>
 </a>
 <a href="https://github.com/LucaPrevi0o/Ing-Web">
@@ -95,7 +95,7 @@
      srcset="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=Ing-Web&border_radius=10"
      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-   <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=Ing-Web&border_radius=10" />
+   <img width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=Ing-Web&border_radius=10" />
  </picture>
 </a>
 <a href="https://github.com/LucaPrevi0o/DeepLearning">
@@ -108,7 +108,7 @@
      srcset="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DeepLearning&border_radius=10"
      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-   <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DeepLearning&border_radius=10" />
+   <img width=280 src="https://github-readme-stats.vercel.app/api/pin/?username=LucaPrevi0o&repo=DeepLearning&border_radius=10" />
  </picture>
 </a>
 
